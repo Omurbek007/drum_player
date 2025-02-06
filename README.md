@@ -1,6 +1,6 @@
 # drum_play
 ### https://omurbek007.github.io/drum_player/
-##Проект: Drum Player Web App
+## Проект: Drum Player Web App
 ### Использованные технологии: HTML, CSS, Vanilla JavaScript
 
 Описание:
